@@ -8,7 +8,7 @@
 * 登录vps
 * 输入以下指令,并按照指令提示操作即可
   ```
-  
+  sudo curl -o installTUIC.sh https://raw.githubusercontent.com/BoxXt/installTUIC/main/installTUIC.sh && sh ./installTUIC.sh
   ```
 * 最终得到 Meta 的客户端配置文件，选用支持 Clash.meta 的客户端导入使用即可
 
